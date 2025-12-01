@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Apple Tree",
+  "base_artist": "AURORA",
+  "createdAt": "2025-12-01T05:19:30.365039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Make Love (Underneath The Apple Tree)",
+      "artist": "PRIVATE",
+      "has_synced": false,
+      "path": "select/01_Let's_Make_Love_(Underneath_The_Apple_Tree)_PRIVATE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Apple Tree",
+      "artist": "Wolfmother",
+      "has_synced": true,
+      "path": "select/02_Apple_Tree_Wolfmother.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Apple Tree",
+      "artist": "Wolfmother",
+      "has_synced": true,
+      "path": "select/03_Apple_Tree_Wolfmother.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Sit Under The Apple Tree",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/04_Don't_Sit_Under_The_Apple_Tree_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Sit Under The Apple Tree (Album Version)",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/05_Don't_Sit_Under_The_Apple_Tree_(Album_Version)_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Sit Under The Apple Tree (feat. The Glenn Miller Orchestra with Debra Byrd)",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/06_Don't_Sit_Under_The_Apple_Tree_(feat._The_Glenn_Miller_Orchestra_with_Debra_Byrd_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Sit Under the Apple Tree",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/07_Don't_Sit_Under_the_Apple_Tree_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Apple Tree",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/08_Apple_Tree_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Apple Tree",
+      "artist": "Johnny Rivers",
+      "has_synced": false,
+      "path": "select/09_Apple_Tree_Johnny_Rivers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Underneath The Apple Tree",
+      "artist": "Michael Franks",
+      "has_synced": true,
+      "path": "select/10_Underneath_The_Apple_Tree_Michael_Franks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apple Tree",
+      "artist": "Erykah Badu",
+      "has_synced": true,
+      "path": "select/11_Apple_Tree_Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Sit Under the Apple Tree",
+      "artist": "Barry Manilow featuring Glenn Miller Orchestra with Debra Byrd",
+      "has_synced": true,
+      "path": "select/12_Don’t_Sit_Under_the_Apple_Tree_Barry_Manilow_featuring_Glenn_Miller_Orchestra_with_Debra_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Sit Under the Apple Tree",
+      "artist": "The Andrews Sisters",
+      "has_synced": true,
+      "path": "select/13_Don't_Sit_Under_the_Apple_Tree_The_Andrews_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Sit Under The Apple Tree",
+      "artist": "Andrew Sisters",
+      "has_synced": true,
+      "path": "select/14_Don't_Sit_Under_The_Apple_Tree_Andrew_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Apple Tree - Demo",
+      "artist": "Wolfmother",
+      "has_synced": true,
+      "path": "select/15_Apple_Tree_-_Demo_Wolfmother.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Apple Tree (demo)",
+      "artist": "Wolfmother",
+      "has_synced": true,
+      "path": "select/16_Apple_Tree_(demo)_Wolfmother.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
+      "artist": "The Andrews Sisters",
+      "has_synced": true,
+      "path": "select/17_Don't_Sit_Under_The_Apple_Tree_(With_Anyone_Else_But_Me)_The_Andrews_Sisters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "apple tree -りんごの木 english ver.-",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/pl_01_apple_tree_-りんごの木_english_ver.-_大橋トリオ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Apple Tree",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/pl_02_Apple_Tree_大橋トリオ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Apple Tree",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/pl_03_Apple_Tree_大橋トリオ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Apple Tree",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/pl_04_Apple_Tree_大橋トリオ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Apple Tree",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/pl_05_Apple_Tree_大橋トリオ.txt"
+    }
+  ]
+}
