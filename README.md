@@ -1,0 +1,81 @@
+# AURORA – Apple Tree
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.36] All of my life I've been hunting
+[00:12.22] I've been a girl, I've been a boy
+[00:14.15] Digging my feet into the ground
+[00:15.73] Like an apple tree
+[00:16.82] Wanting to live with a purpose
+[00:31.82] 
+[00:20.64] Skin is a word, love is not a sin
+[00:22.40] People are bad, people are good
+[00:24.30] Just like the moon is a stone
+[00:25.91] But it's a star when it's dark
+[00:27.22] And now she's hiding
+[00:37.22] 
+[00:30.83] If you've seen what a heart is
+[00:33.09] You've seen its colour
+[00:35.88] If I ever knew how we could guide it
+[00:53.88] 
+[00:40.67] I would take care of its children
+[00:43.35] Become their mother
+[00:45.90] If I ever knew how we could hide it
+[00:49.83] Hide it
+[00:53.33] 
+[00:51.44] Let her save the world
+[00:54.16] She is just a girl
+[00:56.29] Let him save them all
+[00:59.28] He is just a boy
+[01:07.28] 
+[01:01.30] Let her save the world
+[01:04.09] She is just a girl
+[01:06.47] Let him save them all
+[01:09.35] He is just a boy
+[01:17.35] 
+[01:16.79] Hunger is quiet, if you do it right
+[01:18.99] Hunter is loud and predictable
+[01:20.23] Scaring away every prey
+[01:22.10] So they are gone
+[01:22.96] Before the hunter arrives
+[01:35.46] 
+[01:26.89] Would you be kind, and put away your sword
+[01:29.07] You cannot cut away what we got
+[01:30.59] You cannot kill what we are
+[01:32.44] We are not here
+[01:34.00] In physical form
+[01:42.00] 
+[01:37.21] You've seen where the knife is
+[01:39.99] Its dark location
+[01:42.51] If I ever knew how we could fight it
+[01:45.72] (Fight it)
+[01:50.72] 
+[01:46.80] I would cut into our anger
+[01:50.13] Make pure emotion
+[01:52.65] If I ever knew how we could hide it
+[01:56.00] Hide it
+[01:59.50] 
+[01:57.72] Let her save the world
+[02:00.62] She is just a girl
+[02:02.75] Let him save them all
+[02:05.42] He is just a boy
+[02:13.42] 
+[02:07.86] Let her save the world
+[02:10.40] She is just a girl
+[02:12.89] Let him save them all
+[02:15.55] He is just a boy
+[02:23.55] 
+[02:32.38] Can you carry the weight of mortality?
+[02:38.19] The explosions around you are your symphony
+[02:59.69] 
+[02:41.05] Let her save the world
+[02:43.74] She is just a girl
+[02:45.84] Let him save them all
+[02:48.84] He is just a boy
+[02:56.84] 
+[02:50.94] Let her save the world
+[02:53.88] She is just a girl
+[02:56.24] Let him save them all
+[02:59.11] He is just a boy
+```
